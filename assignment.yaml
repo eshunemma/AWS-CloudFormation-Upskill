@@ -3,11 +3,11 @@ Description: CloudFormation template for IAM, S3 access, Secrets Manager, Parame
 Mappings:
   UserDetails:
     User1:
-      Username: 'Robert'
-      Email: 'robert@example.com'
+      Username: 'Hubert'
+      Email: 'hubert@example.com'
     User2:
-      Username: 'Emmanuel'
-      Email: 'emmanuel@example.com'
+      Username: 'Eshun'
+      Email: 'eshun@example.com'
 
 Resources:
   # Secrets Manager secrets for passwords
